@@ -1,0 +1,5 @@
+When exporting your world to game data (export to lots) make sure to put in an offset of 25x25 for Muldraugh, or 25x1  for west point. This is to place the world safely away from 0 coordinates which bug it out atm so they have room to expand.
+
+Or a different offset if you would like to place your world on/outside the edge of the current game world.
+
+Bear in mind going below 0 is not recommended.
