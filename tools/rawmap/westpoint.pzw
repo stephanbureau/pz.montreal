@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world version="1.0" width="20" height="10">
+ <BMPToTMX>
+  <tmxexportdir path="westpoint_tmx"/>
+  <rulesfile path=""/>
+  <blendsfile path=""/>
+  <mapbasefile path=""/>
+  <assign-maps-to-world checked="true"/>
+  <warn-unknown-colors checked="true"/>
+  <compress checked="true"/>
+  <copy-pixels checked="true"/>
+ </BMPToTMX>
+ <GenerateLots>
+  <exportdir path=""/>
+  <ZombieSpawnMap path=""/>
+  <worldOrigin origin="0,0"/>
+ </GenerateLots>
+ <LuaSettings>
+  <spawnPointsFile path=""/>
+  <worldObjectsFile path=""/>
+ </LuaSettings>
+ <bmp path="westpoint.png" x="0" y="0" width="20" height="10"/>
+ <cell x="0" y="0" map="westpoint_tmx/westpoint_0_0.tmx"/>
+ <cell x="1" y="0" map="westpoint_tmx/westpoint_1_0.tmx"/>
+ <cell x="2" y="0" map="westpoint_tmx/westpoint_2_0.tmx"/>
+ <cell x="3" y="0" map="westpoint_tmx/westpoint_3_0.tmx"/>
+ <cell x="4" y="0" map="westpoint_tmx/westpoint_4_0.tmx"/>
+ <cell x="5" y="0" map="westpoint_tmx/westpoint_5_0.tmx"/>
+ <cell x="6" y="0" map="westpoint_tmx/westpoint_6_0.tmx"/>
+ <cell x="7" y="0" map="westpoint_tmx/westpoint_7_0.tmx"/>
+ <cell x="8" y="0" map="westpoint_tmx/westpoint_8_0.tmx"/>
+ <cell x="9" y="0" map="westpoint_tmx/westpoint_9_0.tmx"/>
+ <cell x="10" y="0" map="westpoint_tmx/westpoint_10_0.tmx"/>
+ <cell x="11" y="0" map="westpoint_tmx/westpoint_11_0.tmx"/>
+ <cell x="12" y="0" map="westpoint_tmx/westpoint_12_0.tmx"/>
+ <cell x="13" y="0" map="westpoint_tmx/westpoint_13_0.tmx"/>
+ <cell x="14" y="0" map="westpoint_tmx/westpoint_14_0.tmx"/>
+ <cell x="15" y="0" map="westpoint_tmx/westpoint_15_0.tmx"/>
+ <cell x="16" y="0" map="westpoint_tmx/westpoint_16_0.tmx"/>
+ <cell x="17" y="0" map="westpoint_tmx/westpoint_17_0.tmx"/>
+ <cell x="18" y="0" map="westpoint_tmx/westpoint_18_0.tmx"/>
+ <cell x="19" y="0" map="westpoint_tmx/westpoint_19_0.tmx"/>
+ <cell x="0" y="1" map="westpoint_tmx/westpoint_0_1.tmx"/>
+ <cell x="1" y="1" map="westpoint_tmx/westpoint_1_1.tmx"/>
+ <cell x="2" y="1" map="westpoint_tmx/westpoint_2_1.tmx"/>
+ <cell x="3" y="1" map="westpoint_tmx/westpoint_3_1.tmx"/>
+ <cell x="4" y="1" map="westpoint_tmx/westpoint_4_1.tmx"/>
+ <cell x="5" y="1" map="westpoint_tmx/westpoint_5_1.tmx"/>
+ <cell x="6" y="1" map="westpoint_tmx/westpoint_6_1.tmx"/>
+ <cell x="7" y="1" map="westpoint_tmx/westpoint_7_1.tmx"/>
+ <cell x="8" y="1" map="westpoint_tmx/westpoint_8_1.tmx"/>
+ <cell x="9" y="1" map="westpoint_tmx/westpoint_9_1.tmx"/>
+ <cell x="10" y="1" map="westpoint_tmx/westpoint_10_1.tmx"/>
+ <cell x="11" y="1" map="westpoint_tmx/westpoint_11_1.tmx"/>
+ <cell x="12" y="1" map="westpoint_tmx/westpoint_12_1.tmx"/>
+ <cell x="13" y="1" map="westpoint_tmx/westpoint_13_1.tmx"/>
+ <cell x="14" y="1" map="westpoint_tmx/westpoint_14_1.tmx"/>
+ <cell x="15" y="1" map="westpoint_tmx/westpoint_15_1.tmx"/>
+ <cell x="16" y="1" map="westpoint_tmx/westpoint_16_1.tmx"/>
+ <cell x="17" y="1" map="westpoint_tmx/westpoint_17_1.tmx"/>
+ <cell x="18" y="1" map="westpoint_tmx/westpoint_18_1.tmx"/>
+ <cell x="19" y="1" map="westpoint_tmx/westpoint_19_1.tmx"/>
+ <cell x="0" y="2" map="westpoint_tmx/westpoint_0_2.tmx"/>
+ <cell x="1" y="2" map="westpoint_tmx/westpoint_1_2.tmx"/>
+ <cell x="2" y="2" map="westpoint_tmx/westpoint_2_2.tmx"/>
+ <cell x="3" y="2" map="westpoint_tmx/westpoint_3_2.tmx"/>
+ <cell x="4" y="2" map="westpoint_tmx/westpoint_4_2.tmx"/>
+ <cell x="5" y="2" map="westpoint_tmx/westpoint_5_2.tmx"/>
+ <cell x="6" y="2" map="westpoint_tmx/westpoint_6_2.tmx"/>
+ <cell x="7" y="2" map="westpoint_tmx/westpoint_7_2.tmx"/>
+ <cell x="8" y="2" map="westpoint_tmx/westpoint_8_2.tmx"/>
+ <cell x="9" y="2" map="westpoint_tmx/westpoint_9_2.tmx"/>
+ <cell x="10" y="2" map="westpoint_tmx/westpoint_10_2.tmx"/>
+ <cell x="11" y="2" map="westpoint_tmx/westpoint_11_2.tmx"/>
+ <cell x="12" y="2" map="westpoint_tmx/westpoint_12_2.tmx"/>
+ <cell x="13" y="2" map="westpoint_tmx/westpoint_13_2.tmx"/>
+ <cell x="14" y="2" map="westpoint_tmx/westpoint_14_2.tmx"/>
+ <cell x="15" y="2" map="westpoint_tmx/westpoint_15_2.tmx"/>
+ <cell x="16" y="2" map="westpoint_tmx/westpoint_16_2.tmx"/>
+ <cell x="17" y="2" map="westpoint_tmx/westpoint_17_2.tmx"/>
+ <cell x="18" y="2" map="westpoint_tmx/westpoint_18_2.tmx"/>
+ <cell x="19" y="2" map="westpoint_tmx/westpoint_19_2.tmx"/>
+ <cell x="0" y="3" map="westpoint_tmx/westpoint_0_3.tmx"/>
+ <cell x="1" y="3" map="westpoint_tmx/westpoint_1_3.tmx"/>
+ <cell x="2" y="3" map="westpoint_tmx/westpoint_2_3.tmx"/>
+ <cell x="3" y="3" map="westpoint_tmx/westpoint_3_3.tmx"/>
+ <cell x="4" y="3" map="westpoint_tmx/westpoint_4_3.tmx"/>
+ <cell x="5" y="3" map="westpoint_tmx/westpoint_5_3.tmx"/>
+ <cell x="6" y="3" map="westpoint_tmx/westpoint_6_3.tmx"/>
+ <cell x="7" y="3" map="westpoint_tmx/westpoint_7_3.tmx"/>
+ <cell x="8" y="3" map="westpoint_tmx/westpoint_8_3.tmx"/>
+ <cell x="9" y="3" map="westpoint_tmx/westpoint_9_3.tmx"/>
+ <cell x="10" y="3" map="westpoint_tmx/westpoint_10_3.tmx"/>
+ <cell x="11" y="3" map="westpoint_tmx/westpoint_11_3.tmx"/>
+ <cell x="12" y="3" map="westpoint_tmx/westpoint_12_3.tmx"/>
+ <cell x="13" y="3" map="westpoint_tmx/westpoint_13_3.tmx"/>
+ <cell x="14" y="3" map="westpoint_tmx/westpoint_14_3.tmx"/>
+ <cell x="15" y="3" map="westpoint_tmx/westpoint_15_3.tmx"/>
+ <cell x="16" y="3" map="westpoint_tmx/westpoint_16_3.tmx"/>
+ <cell x="17" y="3" map="westpoint_tmx/westpoint_17_3.tmx"/>
+ <cell x="18" y="3" map="westpoint_tmx/westpoint_18_3.tmx"/>
+ <cell x="19" y="3" map="westpoint_tmx/westpoint_19_3.tmx"/>
+ <cell x="0" y="4" map="westpoint_tmx/westpoint_0_4.tmx"/>
+ <cell x="1" y="4" map="westpoint_tmx/westpoint_1_4.tmx"/>
+ <cell x="2" y="4" map="westpoint_tmx/westpoint_2_4.tmx"/>
+ <cell x="3" y="4" map="westpoint_tmx/westpoint_3_4.tmx"/>
+ <cell x="4" y="4" map="westpoint_tmx/westpoint_4_4.tmx"/>
+ <cell x="5" y="4" map="westpoint_tmx/westpoint_5_4.tmx"/>
+ <cell x="6" y="4" map="westpoint_tmx/westpoint_6_4.tmx"/>
+ <cell x="7" y="4" map="westpoint_tmx/westpoint_7_4.tmx"/>
+ <cell x="8" y="4" map="westpoint_tmx/westpoint_8_4.tmx"/>
+ <cell x="9" y="4" map="westpoint_tmx/westpoint_9_4.tmx"/>
+ <cell x="10" y="4" map="westpoint_tmx/westpoint_10_4.tmx"/>
+ <cell x="11" y="4" map="westpoint_tmx/westpoint_11_4.tmx"/>
+ <cell x="12" y="4" map="westpoint_tmx/westpoint_12_4.tmx"/>
+ <cell x="13" y="4" map="westpoint_tmx/westpoint_13_4.tmx"/>
+ <cell x="14" y="4" map="westpoint_tmx/westpoint_14_4.tmx"/>
+ <cell x="15" y="4" map="westpoint_tmx/westpoint_15_4.tmx"/>
+ <cell x="16" y="4" map="westpoint_tmx/westpoint_16_4.tmx"/>
+ <cell x="17" y="4" map="westpoint_tmx/westpoint_17_4.tmx"/>
+ <cell x="18" y="4" map="westpoint_tmx/westpoint_18_4.tmx"/>
+ <cell x="19" y="4" map="westpoint_tmx/westpoint_19_4.tmx"/>
+ <cell x="0" y="5" map="westpoint_tmx/westpoint_0_5.tmx"/>
+ <cell x="1" y="5" map="westpoint_tmx/westpoint_1_5.tmx"/>
+ <cell x="2" y="5" map="westpoint_tmx/westpoint_2_5.tmx"/>
+ <cell x="3" y="5" map="westpoint_tmx/westpoint_3_5.tmx"/>
+ <cell x="4" y="5" map="westpoint_tmx/westpoint_4_5.tmx"/>
+ <cell x="5" y="5" map="westpoint_tmx/westpoint_5_5.tmx"/>
+ <cell x="6" y="5" map="westpoint_tmx/westpoint_6_5.tmx"/>
+ <cell x="7" y="5" map="westpoint_tmx/westpoint_7_5.tmx"/>
+ <cell x="8" y="5" map="westpoint_tmx/westpoint_8_5.tmx"/>
+ <cell x="9" y="5" map="westpoint_tmx/westpoint_9_5.tmx"/>
+ <cell x="10" y="5" map="westpoint_tmx/westpoint_10_5.tmx"/>
+ <cell x="11" y="5" map="westpoint_tmx/westpoint_11_5.tmx"/>
+ <cell x="12" y="5" map="westpoint_tmx/westpoint_12_5.tmx"/>
+ <cell x="13" y="5" map="westpoint_tmx/westpoint_13_5.tmx"/>
+ <cell x="14" y="5" map="westpoint_tmx/westpoint_14_5.tmx"/>
+ <cell x="15" y="5" map="westpoint_tmx/westpoint_15_5.tmx"/>
+ <cell x="16" y="5" map="westpoint_tmx/westpoint_16_5.tmx"/>
+ <cell x="17" y="5" map="westpoint_tmx/westpoint_17_5.tmx"/>
+ <cell x="18" y="5" map="westpoint_tmx/westpoint_18_5.tmx"/>
+ <cell x="19" y="5" map="westpoint_tmx/westpoint_19_5.tmx"/>
+ <cell x="0" y="6" map="westpoint_tmx/westpoint_0_6.tmx"/>
+ <cell x="1" y="6" map="westpoint_tmx/westpoint_1_6.tmx"/>
+ <cell x="2" y="6" map="westpoint_tmx/westpoint_2_6.tmx"/>
+ <cell x="3" y="6" map="westpoint_tmx/westpoint_3_6.tmx"/>
+ <cell x="4" y="6" map="westpoint_tmx/westpoint_4_6.tmx"/>
+ <cell x="5" y="6" map="westpoint_tmx/westpoint_5_6.tmx"/>
+ <cell x="6" y="6" map="westpoint_tmx/westpoint_6_6.tmx"/>
+ <cell x="7" y="6" map="westpoint_tmx/westpoint_7_6.tmx"/>
+ <cell x="8" y="6" map="westpoint_tmx/westpoint_8_6.tmx"/>
+ <cell x="9" y="6" map="westpoint_tmx/westpoint_9_6.tmx"/>
+ <cell x="10" y="6" map="westpoint_tmx/westpoint_10_6.tmx"/>
+ <cell x="11" y="6" map="westpoint_tmx/westpoint_11_6.tmx"/>
+ <cell x="12" y="6" map="westpoint_tmx/westpoint_12_6.tmx"/>
+ <cell x="13" y="6" map="westpoint_tmx/westpoint_13_6.tmx"/>
+ <cell x="14" y="6" map="westpoint_tmx/westpoint_14_6.tmx"/>
+ <cell x="15" y="6" map="westpoint_tmx/westpoint_15_6.tmx"/>
+ <cell x="16" y="6" map="westpoint_tmx/westpoint_16_6.tmx"/>
+ <cell x="17" y="6" map="westpoint_tmx/westpoint_17_6.tmx"/>
+ <cell x="18" y="6" map="westpoint_tmx/westpoint_18_6.tmx"/>
+ <cell x="19" y="6" map="westpoint_tmx/westpoint_19_6.tmx"/>
+ <cell x="0" y="7" map="westpoint_tmx/westpoint_0_7.tmx"/>
+ <cell x="1" y="7" map="westpoint_tmx/westpoint_1_7.tmx"/>
+ <cell x="2" y="7" map="westpoint_tmx/westpoint_2_7.tmx"/>
+ <cell x="3" y="7" map="westpoint_tmx/westpoint_3_7.tmx"/>
+ <cell x="4" y="7" map="westpoint_tmx/westpoint_4_7.tmx"/>
+ <cell x="5" y="7" map="westpoint_tmx/westpoint_5_7.tmx"/>
+ <cell x="6" y="7" map="westpoint_tmx/westpoint_6_7.tmx"/>
+ <cell x="7" y="7" map="westpoint_tmx/westpoint_7_7.tmx"/>
+ <cell x="8" y="7" map="westpoint_tmx/westpoint_8_7.tmx"/>
+ <cell x="9" y="7" map="westpoint_tmx/westpoint_9_7.tmx"/>
+ <cell x="10" y="7" map="westpoint_tmx/westpoint_10_7.tmx"/>
+ <cell x="11" y="7" map="westpoint_tmx/westpoint_11_7.tmx"/>
+ <cell x="12" y="7" map="westpoint_tmx/westpoint_12_7.tmx"/>
+ <cell x="13" y="7" map="westpoint_tmx/westpoint_13_7.tmx"/>
+ <cell x="14" y="7" map="westpoint_tmx/westpoint_14_7.tmx"/>
+ <cell x="15" y="7" map="westpoint_tmx/westpoint_15_7.tmx"/>
+ <cell x="16" y="7" map="westpoint_tmx/westpoint_16_7.tmx"/>
+ <cell x="17" y="7" map="westpoint_tmx/westpoint_17_7.tmx"/>
+ <cell x="18" y="7" map="westpoint_tmx/westpoint_18_7.tmx"/>
+ <cell x="19" y="7" map="westpoint_tmx/westpoint_19_7.tmx"/>
+ <cell x="0" y="8" map="westpoint_tmx/westpoint_0_8.tmx"/>
+ <cell x="1" y="8" map="westpoint_tmx/westpoint_1_8.tmx"/>
+ <cell x="2" y="8" map="westpoint_tmx/westpoint_2_8.tmx"/>
+ <cell x="3" y="8" map="westpoint_tmx/westpoint_3_8.tmx"/>
+ <cell x="4" y="8" map="westpoint_tmx/westpoint_4_8.tmx"/>
+ <cell x="5" y="8" map="westpoint_tmx/westpoint_5_8.tmx"/>
+ <cell x="6" y="8" map="westpoint_tmx/westpoint_6_8.tmx"/>
+ <cell x="7" y="8" map="westpoint_tmx/westpoint_7_8.tmx"/>
+ <cell x="8" y="8" map="westpoint_tmx/westpoint_8_8.tmx"/>
+ <cell x="9" y="8" map="westpoint_tmx/westpoint_9_8.tmx"/>
+ <cell x="10" y="8" map="westpoint_tmx/westpoint_10_8.tmx"/>
+ <cell x="11" y="8" map="westpoint_tmx/westpoint_11_8.tmx"/>
+ <cell x="12" y="8" map="westpoint_tmx/westpoint_12_8.tmx"/>
+ <cell x="13" y="8" map="westpoint_tmx/westpoint_13_8.tmx"/>
+ <cell x="14" y="8" map="westpoint_tmx/westpoint_14_8.tmx"/>
+ <cell x="15" y="8" map="westpoint_tmx/westpoint_15_8.tmx"/>
+ <cell x="16" y="8" map="westpoint_tmx/westpoint_16_8.tmx"/>
+ <cell x="17" y="8" map="westpoint_tmx/westpoint_17_8.tmx"/>
+ <cell x="18" y="8" map="westpoint_tmx/westpoint_18_8.tmx"/>
+ <cell x="19" y="8" map="westpoint_tmx/westpoint_19_8.tmx"/>
+ <cell x="0" y="9" map="westpoint_tmx/westpoint_0_9.tmx"/>
+ <cell x="1" y="9" map="westpoint_tmx/westpoint_1_9.tmx"/>
+ <cell x="2" y="9" map="westpoint_tmx/westpoint_2_9.tmx"/>
+ <cell x="3" y="9" map="westpoint_tmx/westpoint_3_9.tmx"/>
+ <cell x="4" y="9" map="westpoint_tmx/westpoint_4_9.tmx"/>
+ <cell x="5" y="9" map="westpoint_tmx/westpoint_5_9.tmx"/>
+ <cell x="6" y="9" map="westpoint_tmx/westpoint_6_9.tmx"/>
+ <cell x="7" y="9" map="westpoint_tmx/westpoint_7_9.tmx"/>
+ <cell x="8" y="9" map="westpoint_tmx/westpoint_8_9.tmx"/>
+ <cell x="9" y="9" map="westpoint_tmx/westpoint_9_9.tmx"/>
+ <cell x="10" y="9" map="westpoint_tmx/westpoint_10_9.tmx"/>
+ <cell x="11" y="9" map="westpoint_tmx/westpoint_11_9.tmx"/>
+ <cell x="12" y="9" map="westpoint_tmx/westpoint_12_9.tmx"/>
+ <cell x="13" y="9" map="westpoint_tmx/westpoint_13_9.tmx"/>
+ <cell x="14" y="9" map="westpoint_tmx/westpoint_14_9.tmx"/>
+ <cell x="15" y="9" map="westpoint_tmx/westpoint_15_9.tmx"/>
+ <cell x="16" y="9" map="westpoint_tmx/westpoint_16_9.tmx"/>
+ <cell x="17" y="9" map="westpoint_tmx/westpoint_17_9.tmx"/>
+ <cell x="18" y="9" map="westpoint_tmx/westpoint_18_9.tmx"/>
+ <cell x="19" y="9" map="westpoint_tmx/westpoint_19_9.tmx"/>
+</world>

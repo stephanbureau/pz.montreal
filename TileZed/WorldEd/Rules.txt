@@ -1,0 +1,182 @@
+rule
+{
+    bitmap = 0
+    color = 90 100 35
+    tiles = floors_exterior_natural_01_0
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 120 145 50
+    tiles = floors_exterior_natural_01_1
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 145 135 60
+    tiles = floors_exterior_natural_01_2
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 210 200 160
+    tiles = floors_exterior_natural_01_24
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 165 160 140
+    tiles = floors_exterior_natural_01_13
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 220 200 150
+    tiles = floors_exterior_natural_01_32
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 100 100 100
+    tiles = floors_exterior_street_01_16
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 120 120 120
+    tiles = floors_exterior_street_01_17
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 140 70 15
+    tiles = floors_exterior_natural_01_12
+    layer = 0_Floor
+}
+
+rule
+{
+    bitmap = 0
+    color = 120 70 20
+    tiles = floors_exterior_natural_01_18
+    layer = 0_Floor
+}
+
+
+
+
+
+
+
+
+
+
+
+rule
+{
+    bitmap = 1
+    color = 255 0 0
+    tiles = [
+	vegetation_trees_01_8
+	vegetation_trees_01_9
+	vegetation_trees_01_10
+	vegetation_trees_01_11
+    ]
+    layer = 0_Vegetation
+}
+
+rule
+{
+    bitmap = 1
+    color = 127 0 0
+    tiles = [
+	vegetation_trees_01_8
+	vegetation_trees_01_9
+	vegetation_trees_01_10
+	vegetation_trees_01_11
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_1
+	vegetation_groundcover_01_2
+    ]
+    layer = 0_Vegetation
+}
+
+rule
+{
+    bitmap = 1
+    color = 64 0 0
+    tiles = [
+	vegetation_trees_01_8
+	vegetation_trees_01_9
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_1
+	vegetation_groundcover_01_2
+	vegetation_groundcover_01_1
+	vegetation_groundcover_01_2
+    ]
+    layer = 0_Vegetation
+}
+
+rule
+{
+    bitmap = 1
+    color = 0 255 0
+    tiles = [
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_1
+	vegetation_groundcover_01_2
+    ]
+    layer = 0_Vegetation
+    condition = 90 100 35
+}
+
+rule
+{
+    bitmap = 1
+    color = 0 255 0
+    tiles = vegetation_groundcover_01_4 null null null
+    layer = 0_Vegetation
+    condition = 145 135 60
+}
+
+rule
+{
+    bitmap = 1
+    color = 0 128 0
+    tiles = [
+	vegetation_trees_01_8
+	vegetation_trees_01_10
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_1
+	vegetation_groundcover_01_2
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_0
+	vegetation_groundcover_01_1
+	vegetation_groundcover_01_1
+	vegetation_groundcover_01_2
+	vegetation_groundcover_01_1
+	vegetation_groundcover_01_2
+    ]
+    layer = 0_Vegetation
+}
+

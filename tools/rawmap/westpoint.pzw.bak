@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world version="1.0" width="20" height="10">
+ <BMPToTMX>
+  <tmxexportdir path="westpoint_tmx"/>
+  <rulesfile path=""/>
+  <blendsfile path=""/>
+  <mapbasefile path=""/>
+  <assign-maps-to-world checked="true"/>
+  <warn-unknown-colors checked="true"/>
+  <compress checked="true"/>
+  <copy-pixels checked="true"/>
+ </BMPToTMX>
+ <GenerateLots>
+  <exportdir path=""/>
+  <ZombieSpawnMap path=""/>
+  <worldOrigin origin="0,0"/>
+ </GenerateLots>
+ <LuaSettings>
+  <spawnPointsFile path=""/>
+  <worldObjectsFile path=""/>
+ </LuaSettings>
+ <bmp path="westpoint.png" x="0" y="0" width="20" height="10"/>
+</world>
