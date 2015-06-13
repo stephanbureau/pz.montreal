@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world version="1.0" width="1" height="1">
+ <BMPToTMX>
+  <tmxexportdir path="."/>
+  <rulesfile path=""/>
+  <blendsfile path=""/>
+  <mapbasefile path=""/>
+  <assign-maps-to-world checked="false"/>
+  <warn-unknown-colors checked="true"/>
+  <compress checked="true"/>
+  <copy-pixels checked="true"/>
+ </BMPToTMX>
+ <GenerateLots>
+  <exportdir path=""/>
+  <ZombieSpawnMap path=""/>
+  <worldOrigin origin="0,0"/>
+ </GenerateLots>
+ <LuaSettings>
+  <spawnPointsFile path=""/>
+  <worldObjectsFile path=""/>
+ </LuaSettings>
+ <bmp path="map.png" x="0" y="0" width="1" height="1"/>
+</world>
