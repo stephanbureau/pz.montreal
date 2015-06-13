@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <world version="1.0" width="1" height="1">
  <BMPToTMX>
-  <tmxexportdir path="."/>
+  <tmxexportdir path=""/>
   <rulesfile path=""/>
   <blendsfile path=""/>
   <mapbasefile path=""/>
@@ -11,13 +11,28 @@
   <copy-pixels checked="true"/>
  </BMPToTMX>
  <GenerateLots>
-  <exportdir path=""/>
-  <ZombieSpawnMap path=""/>
+  <exportdir path="Montreal, QC"/>
+  <ZombieSpawnMap path="map2_ZombieSpawnMap.bmp"/>
   <worldOrigin origin="0,0"/>
  </GenerateLots>
  <LuaSettings>
-  <spawnPointsFile path=""/>
-  <worldObjectsFile path=""/>
+  <spawnPointsFile path="Montreal, QC/spawnpoints.lua"/>
+  <worldObjectsFile path="Montreal, QC/worldobjects.lua"/>
  </LuaSettings>
- <bmp path="map.png" x="0" y="0" width="1" height="1"/>
+ <bmp path="map2.png" x="0" y="0" width="1" height="1"/>
+ <propertyenum name="Professions" choices="all,unemployed,policeofficer,constructionworker,securityguard,parkranger,fireofficer" multi="true"/>
+ <propertydef name="Professions" default="all" enum="Professions">
+  <description>Comma-separated list of professions that may spawn here.  Use &quot;all&quot; to allow any profession to spawn here.</description>
+ </propertydef>
+ <template name="SpawnPoint">
+  <description>This template holds the default set of properties for all spawn points in the world.</description>
+  <property name="Professions" value="all"/>
+ </template>
+ <objecttype name="SpawnPoint"/>
+ <cell x="0" y="0" map="map2_0_0.tmx">
+  <lot x="149" y="144" level="0" width="11" height="19" map="buildings/2031_2033_2035_sanguinet.tbx"/>
+  <object type="SpawnPoint" x="156" y="164" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+  </object>
+ </cell>
 </world>
