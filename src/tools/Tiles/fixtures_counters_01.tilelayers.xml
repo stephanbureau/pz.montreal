@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset columns="8" rows="16">
+ <tile id="24" layername="Furniture"/>
+ <tile id="25" layername="Furniture"/>
+ <tile id="26" layername="Furniture"/>
+ <tile id="27" layername="Furniture"/>
+</tileset>

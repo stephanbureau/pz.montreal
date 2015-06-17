@@ -30,7 +30,8 @@
  </template>
  <objecttype name="SpawnPoint"/>
  <cell x="0" y="0" map="map2_0_0.tmx">
-  <lot x="149" y="144" level="0" width="11" height="19" map="buildings/2031_2033_2035_sanguinet.tbx"/>
+  <lot x="149" y="138" level="0" width="12" height="26" map="buildings/2031_2033_2035_sanguinet.tbx"/>
+  <lot x="137" y="138" level="0" width="12" height="26" map="buildings/2031_2033_2035_sanguinet.tbx"/>
   <object type="SpawnPoint" x="156" y="164" level="0" width="1" height="1">
    <template name="SpawnPoint"/>
   </object>
